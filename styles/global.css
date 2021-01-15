@@ -1,0 +1,129 @@
+body h1 {
+  font-size: 2em;
+}
+
+body h2 {
+  font-size: 1.5em;
+}
+
+body h3 {
+  font-size: 1.17em;
+}
+
+body h4 {
+  font-size: 1em;
+}
+
+body h5 {
+  font-size: .83em;
+}
+
+body h6 {
+  font-size: .75em;
+}
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+strong,
+span,
+b,
+li,
+table{
+  color: white;
+}
+
+
+html,
+body {
+  font-family: "Roboto",sans-serif;
+  background-color: #131418;
+  color: white;
+  height: 100%;
+}
+
+.xyz {
+  padding: 60px 20px 0 20px;
+}
+
+p {
+  color: white;
+}
+
+.avatar {
+  width: 150px;
+  height: 150px;
+  border-radius: 100%;
+  border: 2px solid tomato;
+  padding: 3px;
+}
+
+.author-bio {
+  margin: 0 auto;
+  max-width: 550px;
+  line-height: 1.688;
+}
+
+.post-list {
+  margin: 0 auto;
+  max-width: 600px;
+  padding-top: 50px;
+  line-height: 40px;
+}
+
+footer {
+  padding-top: 50px;
+  padding-bottom: 10px;
+}
+
+nav {
+   line-height: 20px;
+   margin: 0 auto;
+   max-width: 600px;
+ }
+
+nav ul {
+   list-style: none;
+   overflow: hidden;
+   font-size: 16px;
+ }
+
+nav ul li {
+   display: inline-block;
+   padding: 20px 0 0 20px;
+ }
+
+hr {
+  opacity: 20%;
+}
+
+body a {
+  color: #d2c7c7;
+}
+body a:hover {
+  color: white;
+}
+
+.custom-hr {
+  margin-top: 1px;
+}
+
+.post-container {
+  margin: 0 auto;
+  max-width: 850px;
+  padding-top: 40px;
+}
+
+.hero {
+  height: 70vh;
+  background-size: cover;
+}
+
+hr.style-one {
+  border: 0;
+  margin: 0;
+  height: 1px;
+  background: #B5B5B5;
+}
