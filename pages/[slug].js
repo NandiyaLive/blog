@@ -37,7 +37,7 @@ const Post = ({ postHtml, data }) => {
       <div className="post-container xyz">
         <Link href="/">
           <a>
-            <i className="fa fa-angle-left"></i> Go back
+            Go back
           </a>
         </Link>
         <br />
