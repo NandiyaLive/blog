@@ -2,7 +2,7 @@ import React from "react";
 import Head from "next/head";
 import "bulma/css/bulma.css";
 import Link from "next/link";
-import fa from "fontawesome/css/all.min.css";
+import fa from "font-awesome";
 import { getSortedPostsData } from "../lib/posts";
 
 const Home = ({ allPostsData }) => {
