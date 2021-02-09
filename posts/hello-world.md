@@ -1,6 +1,6 @@
 ---
 title: Hello World 👋
-image: http://angularjstutorials.net/bet/wp-content/uploads/2018/01/hello-world.jpg
+image: https://angularjstutorials.net/bet/wp-content/uploads/2018/01/hello-world.jpg
 author: Neranjana Prasad
 date: 14/01/2021
 ---
